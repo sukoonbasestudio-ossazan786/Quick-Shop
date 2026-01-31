@@ -1,0 +1,8 @@
+{
+  "name": "Quick Shop - Premium E-commerce",
+  "description": "A luxury emerald-themed store with administrative controls, currency switching (PKR/USD), and automated support status tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
